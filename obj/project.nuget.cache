@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v+T/gogyfCOq00SD4EsGvrmYJbS7vhZRKMI6tSqCEkxH3EWL6O0uxupU7b3BmLZCluENvI4LinMbaO06rCxtww==",
+  "success": true,
+  "projectFilePath": "/Users/oleksandraserbin/Desktop/task_1/task_1.csproj",
+  "expectedPackageFiles": [
+    "/Users/oleksandraserbin/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/oleksandraserbin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/oleksandraserbin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.29/microsoft.netcore.app.host.osx-arm64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
